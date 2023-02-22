@@ -1,0 +1,14 @@
+{
+  "name": "weatherproj",
+  "version": "1.0.0",
+  "description": "Live updates on weather condition",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shivam Singh",
+  "license": "ISC",
+  "dependencies": {
+    "requests": "^0.3.0"
+  }
+}
