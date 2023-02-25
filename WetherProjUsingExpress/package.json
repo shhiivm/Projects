@@ -1,0 +1,15 @@
+{
+  "name": "expweb",
+  "version": "1.0.0",
+  "description": "Creating my first website using express.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shivam Singh",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "hbs": "^4.2.0"
+  }
+}
